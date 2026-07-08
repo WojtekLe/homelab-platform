@@ -1,0 +1,7 @@
+# update hostname
+
+sudo nano /etc/hostname
+
+sudo nano /etc/hosts
+
+sudo reboot
